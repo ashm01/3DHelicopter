@@ -1,0 +1,103 @@
+﻿Build started 16/01/2015 11:15:05.
+     1>Project "C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\sample.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt opengl3template.cpp
+         opengl3template.cpp
+     1>opengl3template.cpp(32): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>opengl3template.cpp(471): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(472): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(473): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(474): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(479): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(480): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(481): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(482): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(487): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(488): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(489): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(495): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(500): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(505): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(506): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(508): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(515): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(524): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(525): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(526): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(533): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(534): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(541): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(542): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(547): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(548): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(553): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(558): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(559): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(618): warning C4018: '<' : signed/unsigned mismatch
+     1>opengl3template.cpp(620): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(621): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(627): warning C4018: '<' : signed/unsigned mismatch
+     1>opengl3template.cpp(699): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(700): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(701): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(702): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>opengl3template.cpp(725): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\sample.exe" /INCREMENTAL:NO /NOLOGO opengl32.lib glu32.lib nvImage.lib jpegbuild.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\sample.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\sample.lib" /MACHINE:X86 /SAFESEH Release\BoundingBox.obj
+         Release\threeDModel.obj
+         Release\BoundBox.obj
+         Release\CollisionDetection.obj
+         Release\console.obj
+         Release\Cube.obj
+         Release\Ground.obj
+         Release\Helicopter.obj
+         Release\Model.obj
+         Release\BITMAP.obj
+         Release\imageLoaderDDS.obj
+         Release\imageLoaderJPG.obj
+         Release\imageLoaderPNG.obj
+         Release\imageLoaderTGA.obj
+         Release\OBJLoader.obj
+         Release\Octree.obj
+         Release\opengl3template.obj
+         Release\Propeller.obj
+         Release\Shader.obj
+         Release\Vector2d.obj
+         Release\Vector3d.obj
+         Release\TextureHandler.obj
+         Release\IntersectionTests.obj
+         Release\World.obj
+         Generating code
+         Finished generating code
+     1>jpegbuild.lib(jcomapi.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jcomapi.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdapimin.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdapimin.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdapistd.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdapistd.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdatasrc.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdatasrc.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdcoefct.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdcoefct.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdcolor.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdcolor.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jddctmgr.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jddctmgr.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdhuff.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdhuff.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdinput.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdinput.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdmainct.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdmainct.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdmarker.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdmarker.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdmaster.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdmaster.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdmerge.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdmerge.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdphuff.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdphuff.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdpostct.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdpostct.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jdsample.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jdsample.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jerror.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jerror.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jidctflt.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jidctflt.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jidctfst.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jidctfst.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jidctint.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jidctint.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jidctred.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jidctred.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jquant2.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jquant2.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jutils.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jutils.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jmemmgr.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jmemmgr.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jquant1.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jquant1.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+     1>jpegbuild.lib(jmemansi.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'jpegbuild.lib(jmemansi.obj)' or at 'C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\vc80.pdb'; linking object as if no debug info
+         sample.vcxproj -> C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\Release\sample.exe
+     1>Done Building Project "C:\Users\Ash\Dropbox\Visual Studio Projects\Year 2 Graph Labs\CourseworkHelicopter\sample.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.42

@@ -1,0 +1,70 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.11.2014 19:40:14
+
+newmtl Mat_fuse_png
+	Ns 37.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.5947 0.5947 0.5947
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\fuse.png
+	map_Kd maps\fuse.png
+
+newmtl 02___Default
+	Ns 34.0000
+	Ni 1.5000
+	d 0.3400
+	Tr 0.6600
+	Tf 0.3400 0.3400 0.3400 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0118 0.0667 0.0980
+	Ks 1.0350 1.0350 1.0350
+	Ke 0.0000 0.0000 0.0000
+
+newmtl None_gazelle_inn_glass_png
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\gazelle_inn_glass.png
+	map_Kd maps\gazelle_inn_glass.png
+
+newmtl Mat_001_gazelle_interior_png
+	Ns 65.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.2160 0.2160 0.2160
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\gazelle_interior.png
+	map_Kd maps\gazelle_interior.png
+
+newmtl 04___Default
+	Ns 46.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.2520 0.2520 0.2520
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\inn.png
+	map_Kd maps\inn.png

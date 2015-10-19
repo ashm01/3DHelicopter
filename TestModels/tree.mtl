@@ -1,0 +1,51 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 16.12.2014 21:45:45
+
+newmtl Material__2299
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\BTleave_Defuse.png
+	map_Kd maps\BTleave_Defuse.png
+	map_d maps\BTleave_Alpha.png
+	map_bump maps\BTleave_Normal.png
+	bump maps\BTleave_Normal.png
+
+newmtl Material__2301
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\BTree_Defuse.png
+	map_Kd maps\BTree_Defuse.png
+	map_bump maps\BTree_Normal.png
+	bump maps\BTree_Normal.png
+
+newmtl Material__2300
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\BTbranch_Defuse.png
+	map_Kd maps\BTbranch_Defuse.png
+	map_bump maps\BTbranch_Normal.png
+	bump maps\BTbranch_Normal.png
